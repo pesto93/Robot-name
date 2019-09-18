@@ -1,0 +1,11 @@
+[debug] Packaging C:\Users\Johnleonard\Exercism\scala\robot-name\target\scala-2.12\robot-name_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\robot-name\target\scala-2.12\classes
+[debug] 	.keep
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\robot-name\target\scala-2.12\classes\.keep
+[debug] 	Robot$.class
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\robot-name\target\scala-2.12\classes\Robot$.class
+[debug] 	Robot.class
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\robot-name\target\scala-2.12\classes\Robot.class
+[debug] Done packaging.

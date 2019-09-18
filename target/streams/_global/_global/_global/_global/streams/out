@@ -1,0 +1,57 @@
+[debug] [watch] [robot-name / Compile / run] Found inputs: C:\Users\Johnleonard\Exercism\scala\robot-name\*.{java,scala},C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\java\**\*.{java,scala},C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\resources\**\*,C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\**\*.{java,scala},C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala-2.12\**\*.{java,scala}
+[info] 1. Monitoring source files for robot-name/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Creating update event for modified C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala (previous stamp: Hash(2d904bedadd4d8287f3ad07c8aaed47d890858b5), current stamp: Hash(9e49d7574b1d6325e19e13b8af9dda8fcbc6cde7))
+[debug] Received file event actions: C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala -> Trigger. Returning: (Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:17:24.308 EET),Trigger)
+[info] Build triggered by C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:17:24.308 EET).
+[info] 2. Monitoring source files for robot-name/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. This event occurred 5 ms since the last event for this path.
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Creating update event for modified C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala (previous stamp: Hash(9e49d7574b1d6325e19e13b8af9dda8fcbc6cde7), current stamp: Hash(9fead07bbf6927aba5b2530f05d435abbc4eceb2))
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received file event actions: C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala -> Trigger. Returning: (Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:20:56.856 EET),Trigger)
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:20:56.856 EET).
+[info] 3. Monitoring source files for robot-name/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. This event occurred 8 ms since the last event for this path.
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Creating update event for modified C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala (previous stamp: Hash(9fead07bbf6927aba5b2530f05d435abbc4eceb2), current stamp: Hash(cd78e72971806ff36f65bfc10d0d10fd779320f9))
+[debug] Received file event actions: C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala -> Trigger. Returning: (Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:26:20.463 EET),Trigger)
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:26:20.463 EET).
+[info] 4. Monitoring source files for robot-name/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. This event occurred 16 ms since the last event for this path.
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received event for path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Creating update event for modified C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala (previous stamp: Hash(cd78e72971806ff36f65bfc10d0d10fd779320f9), current stamp: Hash(f536198bcd32e6b6b36d3efdd86eb14747d39777))
+[debug] Received file event actions: C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala -> Trigger. Returning: (Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:27:50.665 EET),Trigger)
+[debug] robot-name / Compile / run - Accepted event for C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala
+[debug] Received Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[info] Build triggered by C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. Running 'run'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala, 2019-Sep-13 14:27:50.665 EET).
+[info] 5. Monitoring source files for robot-name/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\Users\Johnleonard\Exercism\scala\robot-name\src\main\scala\Robot.scala. This event occurred 2 ms since the last event for this path.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().
